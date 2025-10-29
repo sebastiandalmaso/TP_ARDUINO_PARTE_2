@@ -27,5 +27,3 @@ Forma parte del **Trabajo Práctico de la asignatura _Informática II_**, dictad
 
 ---
 
-## 🧩 Estructura del Proyecto
-
