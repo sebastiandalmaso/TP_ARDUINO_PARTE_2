@@ -1,7 +1,7 @@
 /*
  * Interfaz Gráfica Simple de Control Arduino
  * 
- * IMPORTANTE: Ajustar el puerto serial en la línea 14
+ * IMPORTANTE: Ajustar el puerto serial en la línea 8
  */
 import processing.serial.*;
 Serial puerto;
