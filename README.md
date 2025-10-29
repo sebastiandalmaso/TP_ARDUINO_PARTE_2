@@ -28,4 +28,4 @@ Forma parte del **Trabajo Práctico de la asignatura _Informática II_**, dictad
 ---
 
 ## ⚡ Circuito realizado 
-![image alt](image_url)
+![image alt](https://github.com/sebastiandalmaso/TP_ARDUINO_PARTE_2/blob/3954f35013f041a86ca35f359e6e93f026916ca8/Circuito%20TP_ARDUINO_2.jpg)
