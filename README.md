@@ -27,3 +27,5 @@ Forma parte del **Trabajo Práctico de la asignatura _Informática II_**, dictad
 
 ---
 
+## ⚡ Circuito realizado 
+![image alt](image_url)
