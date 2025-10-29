@@ -5,7 +5,7 @@
  */
 import processing.serial.*;
 Serial puerto;
-String puertoArduino = "COM3"; // CAMBIAR según tu sistema
+String puertoArduino = "COM3"; // CAMBIAR según el puerto serial a utilizar
 // Estados
 boolean E1 = false;
 boolean E2 = false;
